@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
- shell_basics
+Task 0. Where am I ?
