@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod if guillaume betty hello
+chmod --reference=betty hello
